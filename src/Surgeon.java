@@ -1,4 +1,4 @@
-class Surgeon extends Clinic {
+class Surgeon extends Doctor {
     public Surgeon(String name) {
         super(name);
     }

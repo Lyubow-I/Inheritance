@@ -1,12 +1,12 @@
 public class Patient {
     int treatmentPlan;
-    private Clinic doctor;
+    private Doctor doctor;
 
     public void setTreatmentPlan(int plan) {
         this.treatmentPlan = plan;
     }
 
-    public void setDoctor(Clinic doctor) {
+    public void setDoctor(Doctor doctor) {
         this.doctor = doctor;
     }
 

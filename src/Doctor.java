@@ -1,7 +1,7 @@
-class Clinic {
+class Doctor {
     private String name;
 
-    public Clinic(String name) {
+    public Doctor(String name) {
         this.name = name;
     }
 
