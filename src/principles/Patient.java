@@ -1,3 +1,5 @@
+package principles;
+
 public class Patient {
     int treatmentPlan;
     private Doctor doctor;

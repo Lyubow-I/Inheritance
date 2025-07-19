@@ -1,3 +1,5 @@
+package principles;
+
 class Dentist extends Doctor {
 
     public Dentist(String name) {

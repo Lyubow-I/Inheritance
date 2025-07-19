@@ -1,3 +1,5 @@
+package principles;
+
 class Therapist extends Doctor {
     private  String  specialization;
 

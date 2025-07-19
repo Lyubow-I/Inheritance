@@ -1,3 +1,5 @@
+package principles;
+
 public class Main {
     public static void main(String[] args) {
         Therapist therapist = new Therapist("Терапевт Сидорова", "Общая терапия");
